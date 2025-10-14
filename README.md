@@ -2,4 +2,4 @@ The Chromebook disabler will disable a list of provided serial numbers, though i
 
 To use the program, run the Chromebook_disabler_main.py file and follow the instructions.
 
-This code will mostly not be updated.
+This code will not be updated.
